@@ -1,0 +1,11 @@
+IncRotaryEncoderDirection	KEYWORD1
+IncRotaryEncoder	KEYWORD1
+OnStepFunc	KEYWORD1
+
+begin	KEYWORD2
+setOnStepFunc	KEYWORD2
+setSpeedMeasurementInterval	KEYWORD2
+update	KEYWORD2
+
+ENCODER_CW	LITERAL1
+ENCODER_CCW	LITERAL1
